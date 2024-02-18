@@ -1,0 +1,20 @@
+
+.add_container {
+	margin: 2%;
+	padding: 5px;
+	display: flex;
+
+}
+
+.form {
+	position: fixed;
+	right: 200px;
+}
+
+.delete-supplier>.icn-dlt:hover{
+	color:#ffffff ;
+}
+
+.error_desc{
+	color: red;
+}
